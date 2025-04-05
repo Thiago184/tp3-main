@@ -1,14 +1,4 @@
-#include "memoria.h"
-#include "cpu.h"
-#include "hd.h"
-
-#define C1_TAM 16
-#define C2_TAM 32  
-#define C3_TAM 64
-#define RAM_TAM  100
-
-#define QTD_INST 1000
-#define PROB     50
+#include "sistema.h"
 
 int main(int argc, char *argv[]){
     // Memórias

@@ -1,12 +1,8 @@
-#include "cpu.h"
+#include "sistema.h"
 #include <stdio.h>
 #include <stdlib.h>
 
-#define CUSTO_C1 50
-#define CUSTO_C2 100
-#define CUSTO_C3 200
-#define CUSTO_RAM 400
-#define CUSTO_DISK 800
+
 
 // Variáveis globais de Hit e Miss de todas as caches e custo
 int custoT = 0, 

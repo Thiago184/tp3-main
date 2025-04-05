@@ -1,4 +1,4 @@
-#include "memoria.h"
+#include "sistema.h"
 
 #include <stdio.h>
 #include <stdlib.h>
